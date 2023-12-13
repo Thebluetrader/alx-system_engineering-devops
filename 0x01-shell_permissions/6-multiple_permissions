@@ -1,0 +1,2 @@
+#!/bin/bash
+chmnod +114 hello
